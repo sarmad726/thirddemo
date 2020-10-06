@@ -2,4 +2,8 @@ new changes for testing
 
 changes new
 
+<<<<<<< HEAD
 updated for the fast forward
+=======
+updated for fast forward
+>>>>>>> dev
