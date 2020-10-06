@@ -3,3 +3,5 @@ working on remote repo
 new changes
 
 changes again for testing
+
+updated for merge commit
