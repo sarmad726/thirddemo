@@ -7,3 +7,6 @@ updated for the fast forward
 =======
 updated for fast forward
 >>>>>>> dev
+
+
+updated for merge commit
